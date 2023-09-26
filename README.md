@@ -1,12 +1,10 @@
 # SQL_Server
 Formação Microsoft SQL Server 2022 da Alura
 
-1. Contexto
-O contexto é completamento fictício, sendo assim, procura simular uma empresa real.
+1. O contexto é completamento fictício, sendo assim, procura simular uma empresa real.
 A empresa em questão vende sucos de frutas.
 
-3. Módulos
-   2.1. Consultas avançadas
+3. Módulo - Consultas avançadas:
 Exiba dados de colunas de uma tabela
 Filtre a saída usando filtros simples e complexos
 Agrupe dados de saída
