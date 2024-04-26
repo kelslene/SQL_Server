@@ -1,13 +1,18 @@
 # SQL_Server
-Formação Microsoft SQL Server 2022 da Alura
+**The scripts I wrote while taking the Alura course**
 
-1. O contexto é completamento fictício, sendo assim, procura simular uma empresa real.
-A empresa em questão vende sucos de frutas.
+Some considerations: the context is completely fictitious, therefore, it seeks to simulate a real company. The company in question sells fruit juices.
 
-3. Módulo - Consultas avançadas:
-Exiba dados de colunas de uma tabela
-Filtre a saída usando filtros simples e complexos
-Agrupe dados de saída
-Filtre dados agrupados
-Pratique a junção e união de tabelas
-Veja as diversas funções numéricas, de textos e de datas disponibilizadas pelo SQL Server
+1. Advanced queries:
+
+Display data from columns of a table
+
+Filter output using simple and complex filters
+
+Group output data
+
+Filter grouped data
+
+Practice joining and joining tables
+
+See the various numeric, text and date functions provided by SQL Server
